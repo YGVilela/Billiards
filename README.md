@@ -6,7 +6,7 @@ The main goal of this project is to develop a light billiard simmulator on a use
 
 - **Realistic physics:** I'll probably consult [Evan Kiefl's](https://ekiefl.github.io/2020/04/24/pooltool-theory/) research for this part. My intention is to allow the user to select whether or not they want realistic ball-cloth/ball/cushion interaction piecewise.
 
-- **Disable physics:** No velocity loss due to ball-cloth interaction.
+- **Constant velocity:** No velocity loss due to ball-cloth interaction.
 
 - **User-defined table:** I'm still not sure if I want to allow free-hand designs, I want to allow the user to define the boundaries using equations and the position of the pockets.
 
